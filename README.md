@@ -1,2 +1,2 @@
 # DataChallenge21_Stone
-Data Challenge - Stone:  Probabilidade de Deafault
+Data Challenge - Stone:  Probabilidade de Default
